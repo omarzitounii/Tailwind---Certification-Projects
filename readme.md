@@ -1,4 +1,4 @@
-# Bootstrap Certification Projects
+# Tailwind Certification Projects
 These projects were built as part of the **best-selling Tailwind course** on [Udemy](https://www.udemy.com/).
 
 ## Certificate
