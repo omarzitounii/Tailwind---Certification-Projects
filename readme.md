@@ -13,7 +13,7 @@ Follow these steps to run any of the projects locally on your machine:
 
 1. Install [Node.js](https://nodejs.org/en) if not installed 
 
-1. Navigate into a project folder and install dependecies:
+1. Navigate into a project folder and install dependencies:
     ```bash
     npm install
     ```
